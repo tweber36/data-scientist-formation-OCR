@@ -27,6 +27,7 @@ Réaliser un moteur de recommendations de films pour un site de cinéma.
 * Feature engineering (traitement des variables catégorielles, transformation des variables, standardisation)
 * Réduction de dimension (PCA)
 * Clustering (k-NN)
+* Création d'une API (Flask)
 
 ### 3. Prédiction du retard de vols
 **Objectif**:
@@ -39,7 +40,16 @@ aérienne.
 * Sélection de modèle (validation croisée, compromis performance/temps de prédiction)
 
 ### 4. Segmentation de clients d'un site e-commerce
-**
+**Objectif**:
+Comprendre les différents types de clients d'un site de vente en ligne afin d'augmenter la fréquence d'achat ainsi que la valeur du panier moyen.
+
+**Compétences acquises**:
+* Feature engineering (création de variables, RFM)
+* Clustering (KMeans)
+* Mesure de performance (Silhouette score)
+* Modèles de classification (Régression Logistique, k-NN, Random Forest, Gradient Boosting)
+* Optimisation de paramètres (GridSearch, Stratégie multi-classes - OVR/OVO)
+* Interprétation des résultats (Matrices de confusion)
 
 ### 5. Prédiction de tags pour des questions de StackOverflow
 
