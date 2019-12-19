@@ -34,11 +34,12 @@ Obtenir un modèle de prédiction des retards de vols afin d'optimiser la logist
 aérienne.
 
 **Compétences acquises**:
-
-
-
+* Mesure de performance (MSE, R2, MAE)
+* Modèles de régression (méthodes linéaires, k-NN, méthodes ensemblistes)
+* Sélection de modèle (validation croisée, compromis performance/temps de prédiction)
 
 ### Segmentation de clients d'un site e-commerce
+**
 
 ### Prédiction de tags pour des questions de StackOverflow
 
