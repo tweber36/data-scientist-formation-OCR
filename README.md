@@ -76,4 +76,4 @@ Développer une preuve de concept d'une nouvelle méthode ou algorithme issu d'u
 **Compétences acquises**:
 * Réaliser une veille sur les méthodes les plus récentes pour une thématique donnée
 * Réseaux de neurones convolutionnels (VGG, WRN)
-* Implémentation d'une nouvelle solution (Octave Convolution)
+* Implémentation d'un nouveau type de convolution (Octave Convolution)
