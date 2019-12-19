@@ -10,10 +10,33 @@ Formation Data Scientist (RNCP niveau 1), ce parcours vise à développer les co
 
 Le parcours se compose de 7 projets professionalisants: 
 ### Analyse de données nutritionnelles
+**Objectif**: 
+Réaliser une analyse de données exploratoire pour un site qui souhaite construire un générateur de recettes saines. 
 
-### Prédiction du retard de vols
+**Compétences acquises**:
+* Librairies Data Science: NumPy, Pandas, Matplotlib
+* Nettoyage de données (traitement des valeurs manquantes/aberrantes, réduction de dimension)
+* Analyse (univariée, multivariée, visualisation des résultats)
 
 ### Moteur de recommendations de films
+**Objectif**:
+Réaliser un moteur de recommendations de films pour un site de cinéma.
+
+**Compétences acquises**:
+* Librairie Data Science (Sci-kit)
+* Feature engineering (traitement des variables catégorielles, transformation des variables, standardisation)
+* Réduction de dimension (PCA)
+* Clustering (k-NN)
+
+### Prédiction du retard de vols
+**Objectif**:
+Obtenir un modèle de prédiction des retards de vols afin d'optimiser la logistique et d'anticiper les retards pour une compagnie 
+aérienne.
+
+**Compétences acquises**:
+
+
+
 
 ### Segmentation de clients d'un site e-commerce
 
@@ -21,4 +44,4 @@ Le parcours se compose de 7 projets professionalisants:
 
 ### Classification d'images de chiens
 
-### Implémentation de l'Octave Convolution
+### Implémentation et test de l'Octave Convolution
