@@ -61,5 +61,12 @@ Développer un système de suggestions de tags pour le site StackOverflow
 * Apprentissage non-supervisé (LDA)
 
 ### 6. Classification d'images de chiens
+**Objectif**:
+Mettre en place un système de détection de races de chiens à partir d'images pour une association de protection des animaux.
+
+**Compétences acquises**:
+* Pré-traitement d'images (whitening, equalization, filtres, re-dimensionnement)
+* Extraction de features (détecteur SIFT)
+* Deep learning (CNN, transfer learning, Keras)
 
 ### 7. Implémentation et test de l'Octave Convolution
