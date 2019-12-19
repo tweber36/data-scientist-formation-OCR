@@ -52,6 +52,13 @@ Comprendre les différents types de clients d'un site de vente en ligne afin d'a
 * Interprétation des résultats (Matrices de confusion)
 
 ### 5. Prédiction de tags pour des questions de StackOverflow
+**Objectif**:
+Développer un système de suggestions de tags pour le site StackOverflow
+
+**Compétences acquises**:
+* Préparation de données textuelles avec NLTK (lemmatisation, racinisation, tokenisation, stopwords)
+* NLP / Traitement du language naturel (TF, TF-IDF)
+* Apprentissage non-supervisé (LDA)
 
 ### 6. Classification d'images de chiens
 
