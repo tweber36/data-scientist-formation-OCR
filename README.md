@@ -70,3 +70,10 @@ Mettre en place un système de détection de races de chiens à partir d'images 
 * Deep learning (CNN, transfer learning, Keras)
 
 ### 7. Implémentation et test de l'Octave Convolution
+**Objectif**:
+Développer une preuve de concept d'une nouvelle méthode ou algorithme issu d'un papier de recherche récent. 
+
+**Compétences acquises**:
+* Réaliser une veille sur les méthodes les plus récentes pour une thématique donnée
+* Réseaux de neurones convolutionnels (VGG, WRN)
+* Implémentation d'une nouvelle solution (Octave Convolution)
