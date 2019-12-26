@@ -1,11 +1,12 @@
 # Catégorisation automatique de questions
 
 **Description du projet**:
+
 [Stack Overflow](https://stackoverflow.com/questions) est un site célèbre de questions-réponses liées au développement informatique.
 Lorsqu'on pose une question sur ce site, il faut entrer plusieurs tags de manière à retrouver facilement la question par la suite. 
 Pour les utilisateurs expérimentés, cela ne pose pas de problème, mais pour les nouveaux utilisateurs, il pourrait être utile de suggérer 
 quelques tags relatifs à la question posée.
-L'objectif est donc de proposer un système de suggestion de tag pour le site, qui assignera plusieurs tags pertinents à une question.
+L'objectif est donc de proposer un système de suggestion de tag pour le site, qui assigne plusieurs tags pertinents à une question.
 
 **Données**:
 * [StackExchange Explorer](https://data.stackexchange.com/stackoverflow/query/new): 
