@@ -13,9 +13,13 @@ A l'aide de méthodes non supervisées, il faudra développer une API capable de
 **Livrables**:
 
 *Notebooks*:
-* 1_Exploration: Partie nettoyage du jeu de données (traitement des valeurs manquantes, aberrantes, doublons,...) 
-* 2_Recommendations: Analyse exploratoire (univariée, multi-variée, visualisation des résultats)
+* 1_Exploration: Analyse exploratoire / Nettoyage / Traitement des variables catégorielles
+* 2_Recommendations: Clustering selon différentes approches / Evaluation et comparaison
 
 *Autres*:
 * Presentation.pdf: Support de présentation en fin de projet
 
+**API**:
+Disponible sous 2 formats - remplacer \<id\> dans l'url par un chiffre (qui correspond à l'id du film recherché dans le jeu de données)
+* Une version avec un format de retour JSON: [version JSON](http://weber-thomas.fr/ocr/project3/recommend/<id>)
+* Une version un peu plus "friendly" avec liens vers les films proposés: [version GUI](http://weber-thomas.fr/ocr/project3/gui/recommend/<id>)
