@@ -1,6 +1,7 @@
 # Moteur de recommendations de films
 
 **Description du projet**:
+
 Un site sur le cinéma souhaite lancer un moteur de recommendations de films pour sauver les soirées ciné de leurs futurs clients.
 Le seul problème est qu'il n'y a pas encore de clients, ce sera donc un moteur de recommendations de type 'content-based'.
 
