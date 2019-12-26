@@ -4,7 +4,7 @@
 
 Une association de protection des animaux a une base de données de pensionnaires qui commence à s'agrandir et ils n'ont pas 
 toujours le temps de référencer les images des animaux qu'ils ont accumulées depuis plusieurs années. 
-Ils aimeraient donc réaliser un index de l'ensemble de la base de données d'images, pour classer les chiens par races.
+L'objectif est donc de réaliser un index de l'ensemble de la base de données d'images, pour classer les chiens par races.
 
 **Données**:
 * [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/): 
