@@ -1,12 +1,12 @@
 # Parcours Data Scientist - OpenClassRooms
 
 Formation Data Scientist (RNCP niveau 1), ce parcours vise à développer les compétences suivantes :
-* Analyse de données - Extraction de valeur.
-* Modélisation de phénomène - Machine learning.
-* Mesure de performance / Amélioration de modélisation.
-* Automatisation de tâches (recommandations, prédictions, classifications).
-* Communication de résultats / visualisation.
-* Aide à la prise de décision.
+* Analyse de données - Extraction de valeur
+* Modélisation de phénomène - Machine learning
+* Mesure de performance / Amélioration de modélisation
+* Automatisation de tâches (recommandations, prédictions, classifications)
+* Communication de résultats / visualisation
+* Aide à la prise de décision
 
 Le parcours se compose de 7 projets professionalisants: 
 ### 1. Analyse de données nutritionnelles
