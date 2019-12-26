@@ -3,6 +3,7 @@
 **Description du projet**:
 Un site sur le cinéma souhaite lancer un moteur de recommendations de films pour sauver les soirées ciné de leurs futurs clients.
 Le seul problème est qu'il n'y a pas encore de clients, ce sera donc un moteur de recommendations de type 'content-based'.
+
 A l'aide de méthodes non supervisées, l'objectif est de développer une API capable de retourner 5 recommendations de films à partir d'un film (ou plutôt de son id dans la base de données).
 
 **Données**:
