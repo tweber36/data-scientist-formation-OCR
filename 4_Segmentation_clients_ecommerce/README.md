@@ -1,6 +1,7 @@
 # Segmentation des comportements de clients
 
 **Description du projet**:
+
 Un site d'e-commerce souhaite mieux comprendre les comportements de ses clients pour augmenter la fréquence d'achat et la valeur 
 du panier moyen. 
 L'objectif est de comprendre les différents types d'utilisateurs grâce à leur comportement dans la durée, afin de détecter les plus 
