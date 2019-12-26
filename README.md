@@ -18,9 +18,9 @@ Réaliser une analyse de données exploratoire pour un site qui souhaite constru
 * Nettoyage de données (traitement des valeurs manquantes/aberrantes, réduction de dimension)
 * Analyse (univariée, multivariée, visualisation des résultats)
 
-### 2. Moteur de recommendations de films
+### 2. Moteur de recommandations de films
 **Objectif**:
-Réaliser un moteur de recommendations de films pour un site de cinéma.
+Réaliser un moteur de recommandations de films pour un site de cinéma.
 
 **Compétences acquises**:
 * Librairie Data Science (Sci-kit)
