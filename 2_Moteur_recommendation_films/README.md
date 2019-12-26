@@ -18,7 +18,6 @@ A l'aide de méthodes non supervisées, il faudra développer une API capable de
 
 *Autres*:
 * [Presentation](Presentation.pdf): Support de présentation en fin de projet
-* ohe_\*.csv: Fichiers contenant les one-hot encodings de certaines variables catégorielles
 
 **API**:
 
