@@ -31,8 +31,7 @@ Réaliser un moteur de recommandations de films pour un site de cinéma.
 
 ### 3. Prédiction du retard de vols
 **Objectif**:
-Obtenir un modèle de prédiction des retards de vols afin d'optimiser la logistique et d'anticiper les retards pour une compagnie 
-aérienne.
+Obtenir un modèle de prédiction du retard des vols d'une compagnie aérienne afin d'anticiper la logistique.
 
 **Compétences acquises**:
 * Mesure de performance (MSE, R2, MAE)
