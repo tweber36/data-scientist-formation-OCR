@@ -14,4 +14,4 @@ Le site Lamarmite souhaite créer un générateur de recettes saines. A partir d
 * [2_Exploration](2_Exploration.ipynb): Analyse exploratoire (univariée, multi-variée, visualisation des résultats)
 
 *Autres*:
-* Presentation.pdf: Support de présentation en fin de projet
+* [Presentation](Presentation.pdf): Support de présentation en fin de projet
