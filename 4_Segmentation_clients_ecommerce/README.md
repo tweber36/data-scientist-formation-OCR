@@ -22,7 +22,7 @@ susceptibles de passer à l'achat.
 * [2_Classification](2_Classification.ipynb): Choix du modèle de classification par validation croisée
 
 *Code*:
-* [Classify.py](classify.py): Programme de classification - prend en entrée une liste de transactions (par exemple le fichier new_clients):
+* [Classify.py](classify.py): Programme de classification - prends en entrée une liste de transactions (par exemple le fichier new_clients):
 ```
 python classify.py new_clients.csv
 ```
