@@ -1,6 +1,7 @@
 # Classification automatique d'images de chiens
 
 **Description du projet**:
+
 Une association de protection des animaux a une base de données de pensionnaires qui commence à s'agrandir et ils n'ont pas 
 toujours le temps de référencer les images des animaux qu'ils ont accumulées depuis plusieurs années. 
 Ils aimeraient donc réaliser un index de l'ensemble de la base de données d'images, pour classer les chiens par races.
