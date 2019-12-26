@@ -31,5 +31,5 @@ méthode non-supervisée (LDA)
 
 **API**:
 
-Disponible [ici](http://weber-thomas.fr/ocr/project6) - Copier-coller une question de StackOverflow (sans les parties de code) et avec 
+[http://weber-thomas.fr/ocr/project6](http://weber-thomas.fr/ocr/project6) - Copier-coller une question de StackOverflow (sans les parties de code) et avec 
 le titre.
