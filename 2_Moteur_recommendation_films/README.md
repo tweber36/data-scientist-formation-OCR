@@ -5,17 +5,17 @@
 Un site sur le cinéma souhaite lancer un moteur de recommendations de films pour sauver les soirées ciné de leurs futurs clients.
 Le seul problème est qu'il n'y a pas encore de clients, ce sera donc un moteur de recommendations de type 'content-based'.
 
-A l'aide de méthodes non supervisées, l'objectif est de développer une API capable de retourner 5 recommendations de films à partir d'un film (ou plutôt de son id dans la base de données).
+A l'aide de méthodes non supervisées, l'objectif est de développer une API capable de retourner 5 recommandations de films à partir d'un film (ou plutôt de son id dans la base de données).
 
 **Données**:
 * [movie_metadata.csv](movie_metadata.csv) : Jeu de données brut (environ 5 000 films)
-* [data.csv](data.csv) : Jeu de données nettoyé (utilisé dans la partie Recommendations)
+* [data.csv](data.csv) : Jeu de données nettoyé (utilisé dans la partie Recommandations)
 
 **Livrables**:
 
 *Notebooks*:
 * [1_Exploration](1_Exploration.ipynb): Analyse exploratoire / Nettoyage / Traitement des variables catégorielles
-* [2_Recommendations](2_Recommendations.ipynb): Clustering selon différentes approches / Evaluation et comparaison
+* [2_Recommandations](2_Recommandations.ipynb): Clustering selon différentes approches / Evaluation et comparaison
 
 *Autres*:
 * [Presentation](Presentation.pdf): Support de présentation en fin de projet
