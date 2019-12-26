@@ -1,6 +1,7 @@
 # Octave Convolution
 
 **Description du projet**:
+
 Le domaine du machine learning, et plus généralement de la data science évolue très rapidement. Il est donc important de prendre 
 l'habitude de se tenir au courant des avancées et d'être capable de tester l'efficacité des nouvelles méthodes, à l'aide de 
 'proof-of-concepts' (POCs)
