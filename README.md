@@ -8,7 +8,7 @@ Formation Data Scientist (RNCP niveau 1), ce parcours vise à développer les co
 * Communication de résultats / visualisation
 * Aide à la prise de décision
 
-Le parcours se compose de 7 projets professionalisants: 
+Le parcours se compose de 7 projets professionnalisants: 
 ### 1. Analyse de données nutritionnelles
 **Objectif**: 
 Réaliser une analyse de données exploratoire pour un site qui souhaite construire un générateur de recettes saines. 
