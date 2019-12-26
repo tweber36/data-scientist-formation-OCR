@@ -1,6 +1,7 @@
 # Analyse de données nutritionnelles
 
 **Description du projet**:
+
 Le site Lamarmite souhaite créer un générateur de recettes saines. A partir d'une base de données qui recense de nombreux produits de consommations, l'objectif est de nettoyer ce jeu de données et de l'analyser afin de l'exploiter au mieux. 
 
 **Données**:
