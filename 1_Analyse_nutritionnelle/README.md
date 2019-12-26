@@ -10,8 +10,8 @@ Le site Lamarmite souhaite créer un générateur de recettes saines. A partir d
 **Livrables**:
 
 *Notebooks*:
-* 1_Nettoyage: Partie nettoyage du jeu de données (traitement des valeurs manquantes, aberrantes, doublons,...) 
-* 2_Exploration: Analyse exploratoire (univariée, multi-variée, visualisation des résultats)
+* [1_Nettoyage](1_Nettoyage.ipynb): Partie nettoyage du jeu de données (traitement des valeurs manquantes, aberrantes, doublons,...) 
+* [2_Exploration](2_Exploration.ipynb): Analyse exploratoire (univariée, multi-variée, visualisation des résultats)
 
 *Autres*:
 * Presentation.pdf: Support de présentation en fin de projet
