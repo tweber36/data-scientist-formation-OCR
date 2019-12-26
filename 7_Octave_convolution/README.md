@@ -8,7 +8,7 @@ l'habitude de se tenir au courant des avancées et d'être capable de tester l'e
 La méthode étudiée ici est une alternative à l'opérateur de convolution utilisé habituellement dans les réseaux neuronaux convolutifs 
 (CNNs), appelée l'[Octave Convolution](https://arxiv.org/pdf/1904.05049v2.pdf).
 
-L'objectif sera d'implémenter cette méthode et de tester ses performances sur de la classification d'images avec 
+L'objectif est d'implémenter cette méthode et de tester ses performances sur de la classification d'images avec 
 un ou plusieurs datasets.
 
 L'implémentation utilisée est celle de koshian2: 
