@@ -26,7 +26,7 @@ ORDER BY Rand() ASC OFFSET 0 ROWS FETCH NEXT 50000 ROWS ONLY
 méthode non-supervisée (LDA)
 
 *Autres*:
-* [Rapport](Rapport.pdf): Présente les différentents traitements effectués, les résultats obtenus et la méthode utilisée pour l'API
+* [Rapport](Rapport.pdf): Présente les différents traitements effectués, les résultats obtenus et la méthode utilisée pour l'API
 * [Presentation](Presentation.pdf): Support de présentation en fin de projet
 
 **API**:
